@@ -8,8 +8,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Student / ID Number** | [Your Student ID] |
+| **Student Name** | [Kamohelo Mokoteli] |
+| **Student / ID Number** | [9401025142085] |
 | **Date** | [DD Month YYYY] |
 | **Assessor** | [Assessor's Name] |
 | **Assessor Date** | [DD Month YYYY] |
