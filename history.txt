@@ -13,7 +13,6 @@ $ history
    12  touch about.html
    13  touch history.txt
    14  git add .
-   15  git commt -m "Added index.html - about.html - history.txt files to the ssh cloned repository"
    16  git commit -m "Added index.html - about.html - history.txt files to the ssh cloned repository"
    17  history
 
