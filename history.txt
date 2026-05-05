@@ -5,7 +5,7 @@ $ history
     4  ssh -T git@github.com
     5  cd ..
     6  cd Desktop
-    7  git clone git@github.com:londeka-z/student_sub_system.git
+    7  git clone git@github.com:Kamo-Lyime/student_sub_system.git
     8  ls
     9  cd student_sub_system
    10  code .
